@@ -44,7 +44,7 @@ By the end of the course, students will:
 
 ### **Phase 2: Presentations of Research Topics (Weeks 6–8)**  
 - **Weeks 6–8:** Student presentations of research topics.  
-  - Each student delivers a 15 minute seminar talk.  
+  - Each student delivers a 10 minute seminar talk.  
   - Peer feedback and discussion follow each presentation.  
 
 ### **Phase 3: Prototype Building (Weeks 10–12)**  
